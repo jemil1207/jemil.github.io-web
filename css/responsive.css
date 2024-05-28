@@ -8,6 +8,13 @@
    
 */
 
+@media only screen and (min-width: 320px) and (max-width:768px) {
+  .adiorthsecimage{
+    margin-top: 75px;
+    margin-bottom: 75px;
+  }
+
+}
 @media only screen and (min-width: 0px) and (max-width: 320px) {
   .pricingplans {
     margin: 0 auto;
